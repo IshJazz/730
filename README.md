@@ -4,9 +4,9 @@ INNODEV 2K21
 ADULTING NOBITA <br>
 Team Name : 730 <br>
 Team Members Name : 
-<Ishan Dikshit> <IshJazz>
-<Ayush Vashisht> <ayushvas>
-<Sahil Verma> <sahil-11>
+ Ishan Dikshit <IshJazz>
+ Ayush Vashisht <ayushvas>
+ Sahil Verma <sahil-11>
 
 Proposed Features : <br>
 1.) User login/signup <br>
